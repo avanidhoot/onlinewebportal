@@ -7,7 +7,6 @@ class App extends Component {
       <div className="App">
           <h1 className="App-title">Welcome to Web Portal Online Deals</h1>
         <div className="App-intro">
-         <Login/>
         </div>
       </div>
     );

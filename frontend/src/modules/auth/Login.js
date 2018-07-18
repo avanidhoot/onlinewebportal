@@ -5,6 +5,7 @@ class Login extends Component {
     render() {
         return (
             <div>
+                <h1>LOGIN</h1>
                 <Form>
                     <Form.Field required>
                         <label>Email</label>
@@ -17,9 +18,7 @@ class Login extends Component {
                     <Button type='submit'>Submit</Button>
                 </Form>
             </div>
-                <p >
-                    Login
-                </p>
+
         );
     }
 }
