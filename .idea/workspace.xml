@@ -2,9 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8526477-18b2-400f-829f-93cd5cf4c651" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/1da029af4314ed802a811de1eda7468e000562c2.json.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/modules/common/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/common/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/18acf8b116f3279ba3a8668c731f8d63e6b023d7.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/19dba96df6656d26ba1690e893d0d0d556b121b9.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/2279698022e3ae97b8913e9314b7c86e633f37f1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/271193b562e754ff616754b03f255c64ee0684a1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/2f09aa371266352746e69525d519dd621686126e.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/446290e3720c20fa9bfaf5e908bb25213e49878b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/4f98de25f3816cce3a6884db1fef91372af955cf.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/53613770e8be1108c341a89fac29f4d51af807d6.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/56c41dfba23436cb5f17a9b641f4f45794642fde.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/59e422cf6bd7073c3c7d2334310d4c00d3cee6ab.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/657f276fa558c31e89643f9e253837a1b993c094.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/7a825548dff241e5307ea0fd2911b2e2288e477b.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/8280d18e7e9ace2ee4b01f4b4b78dd29dd353c3c.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/8d6fde6775dde2c46d7eaaf37f7f20371a1dd808.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/a71dfef4edd463346d2201f1ed7b0dc6d7dc3bc2.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/acdf9242ba82dd189dd290d6ab758ad62a8def82.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/b3d61eab9d66ce75f5be7e3ceb891f56719e13a4.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/cb3d104dede2473490a6712daed266d612a90248.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/daa05265adb4529adf2e4efddd1fcceddf498ad1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/e8b62c598402f5a82a8f59b5e4bcec4cb7348c2a.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/babel-loader/f0a5f95637096ee7865f6b71738163c45163506d.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/runtime/node_modules/core-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/@babel/runtime/node_modules/core-js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/runtime/node_modules/regenerator-runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/@babel/runtime/node_modules/regenerator-runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/@babel/runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/@babel/runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/classnames/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/classnames/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/history/node_modules/warning/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/history/node_modules/warning/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/history/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/history/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/hoist-non-react-statics/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/hoist-non-react-statics/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/keyboard-key/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/keyboard-key/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/react-router-dom/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/react-router-dom/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/react-router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/react-router/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/resolve-pathname/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/resolve-pathname/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/semantic-ui-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/semantic-ui-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/shallowequal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/shallowequal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/value-equal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/value-equal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/warning/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/warning/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/modules/auth/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/auth/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/modules/auth/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/auth/Signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/modules/config/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/config/Routes.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,8 +96,8 @@
       <file leaf-file-name="Login.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/src/modules/auth/Login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            <state relative-caret-position="408">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -125,9 +166,9 @@
         <option value="$PROJECT_DIR$/frontend/src/modules/auth/Signup.js" />
         <option value="$PROJECT_DIR$/frontend/src/modules/config/Services.js" />
         <option value="$PROJECT_DIR$/frontend/src/modules/common/Header.js" />
-        <option value="$PROJECT_DIR$/frontend/src/modules/auth/Login.js" />
         <option value="$PROJECT_DIR$/frontend/public/index.html" />
         <option value="$PROJECT_DIR$/frontend/src/modules/common/App.js" />
+        <option value="$PROJECT_DIR$/frontend/src/modules/auth/Login.js" />
       </list>
     </option>
   </component>
@@ -171,6 +212,27 @@
               <item name="onlinewebportal" type="b2602c69:ProjectViewProjectNode" />
               <item name="onlinewebportal" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="onlinewebportal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="onlinewebportal" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="onlinewebportal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="onlinewebportal" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="onlinewebportal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="onlinewebportal" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,17 +284,18 @@
       <option name="presentableId" value="Default" />
       <updated>1531820370909</updated>
       <workItem from="1531820379551" duration="9077000" />
-      <workItem from="1531888429240" duration="2414000" />
+      <workItem from="1531888429240" duration="2617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11491000" />
+    <option name="totallyTimeSpent" value="11694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -240,7 +303,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32949308" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33064517" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33064517" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -432,8 +495,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/modules/auth/Login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

@@ -7,7 +7,10 @@
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
+<<<<<<< HEAD
     "semantic-ui-css": "^2.3.3",
+=======
+>>>>>>> e496b1a8fc22a2c904d2e2f2797f9069a9fd6f3b
     "semantic-ui-react": "^0.82.0"
   },
   "scripts": {

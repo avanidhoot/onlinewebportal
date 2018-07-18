@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Form, Input,Button } from 'semantic-ui-react'
 
-
 class Login extends Component {
     render() {
         return (
@@ -18,7 +17,9 @@ class Login extends Component {
                     <Button type='submit'>Submit</Button>
                 </Form>
             </div>
-
+                <p >
+                    Login
+                </p>
         );
     }
 }
